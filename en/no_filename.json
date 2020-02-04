@@ -1,0 +1,27 @@
+{
+    "key": "cool value",
+    "Artboard.element6_Symbol3": "Element 6!!",
+    "Artboard.element3_Symbol1": "Element 3!!!!",
+    "Artboard.element1": "Trash",
+    "0e497975-6d81-4044-9f1c-7f275dad7c65-Symbols.textElement": "Welcome",
+    "Werner": "",
+    "Keyname": "Translation",
+    "appstore.app.description": "Lokalise is a free service, that lets you manage and edit strings and translations of your app, game or website – either on your own or with a team of collaborators. Built for developers, Lokalise includes original features like export webhooks and custom archive bundle structure, so you can easily integrate it with your website or app and update translations in real time.",
+    "index.untranslated_yet": "",
+    "index.placeholder": "The editor has validations that are applied for every string that is saved. Try to translate this string without the %s placeholder and you will see.",
+    "appstore.app.title": "Lokalise",
+    "appstore.app.keywords": "app localization, iOS localization, string management, app translation management tool, android localisation",
+    "index.blabla": "If you have translated all the previous strings so far, it should be enough to give you an idea on how the editor works. Right? :)",
+    "main.cool": "This string belongs to iOS, however you can link other platforms with a single click!",
+    "app.login.pass": "Password",
+    "appstore.app.whatsnew": "- added support for many languages\n— now much cooler than before\n- the best translation management tool on the market",
+    "main.country": "%d %b %Y",
+    "index.welcomes": "Welcome to <strong>Lokalise<\/strong>! \nTry to click any <i>Empty<\/i> translation to see inline machine translation.\n%li",
+    "welcomes!": "",
+    "Key": "Bro!!!",
+    "Dropper": "Symbol",
+    "very long tagsafasdfasdfasdfsadf": {
+        "one": "Ones",
+        "other": "Others"
+    }
+}
