@@ -1,0 +1,31 @@
+{
+    "apples_count": {
+        "one": "1 apple",
+        "other": "%d apples"
+    },
+    "does have done and some other tag": "kaut kas",
+    "incorrect_router": "Incorrect router model here, %d",
+    "kokoio": {
+        "one": "",
+        "other": "kjkjkj"
+    },
+    "message": {
+        "zero": "Tev ir 1 ziņa!",
+        "one": "",
+        "other": ""
+    },
+    "privacy": "Privacy policy",
+    "Provide_router": "Norādiet maršrutētāja modeļa nosaukumu vai atstājiet maršrutētāja lauku tukšu",
+    "sign_in": "Pierakstieties, %s",
+    "sign_up": "Pierakstīties",
+    "sign_up_again": "[%key_id:37656427%]",
+    "sign_up_copy": "[%key_id:37656427%]",
+    "Test_01": "Hello World",
+    "ttttttest": {
+        "zero": "",
+        "one": "hgmgm",
+        "other": "jhj,h,"
+    },
+    "welcome_test": "Laipni lūdzam Sample App, %s!",
+    "welcome_test_copy": "Laipni lūdzam pārbaudīt atslēgas"
+}
